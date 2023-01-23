@@ -1,0 +1,14 @@
+.home {
+  text-align: center;
+  background: blue url("../../images//background/home_bg.png") center;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nextBtn {
+  position: absolute;
+  top: 70%;
+  left: 44%;
+}
