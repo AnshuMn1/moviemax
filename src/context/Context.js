@@ -38,13 +38,6 @@ function ContextApi(props) {
         props.history.push("/netflix-originals-movies");
         setMovieType("");
         return request;
-      } else if (movieType === "ComedyMovies") {
-        const request = await axios.get(fetchURL.fetchComedyMovies);
-        console.log("fetchComedyMovies");
-        setMovies(request.data.results);
-        props.history.push("/comedy-movies");
-        setMovieType("");
-        return request;
       } else if (movieType === "HorrorMovies") {
         const request = await axios.get(fetchURL.fetchHorrorMovies);
         console.log("fetchHorrorMovies");

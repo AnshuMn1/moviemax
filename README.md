@@ -5,7 +5,7 @@
 [![forks](https://img.shields.io/github/forks/Sonakshi1901/moviemix)](#forks)
 [![license](https://img.shields.io/github/license/Sonakshi1901/moviemix)](#license)
 
-## [Live Demo](https://moviemix-2022.web.app/)
+## [Live Demo](https://moviemix-2021.web.app/)
 
 ## What is Moviemix?
 

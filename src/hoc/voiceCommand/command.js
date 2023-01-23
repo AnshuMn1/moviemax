@@ -1,7 +1,7 @@
 const command = {
   title: "Available voice commands",
   rows: [
-    { title: "Who are you?/What is your name?", content: "My name is Alan." },
+    { title: "Who are you?/What is your name?", content: "My name is Anshuman." },
     {
       title:
         "What is the purpose of this moviemix || what is moviemix || tell me about this website",

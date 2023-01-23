@@ -16,11 +16,6 @@ const genre = [
     keyword: "NetFlixOriginals",
   },
   {
-    name: "Comedy Movies",
-    keyword: "ComedyMovies",
-    img: "http://www.elginpk.com/worsley1415_2/morrison/bean3.jpg"
-  },
-  {
     name: "Horror Movies",
     keyword: "HorrorMovies",
     img: "https://mastersreview.com/files/2017/10/horror-vs-terror.jpg"
